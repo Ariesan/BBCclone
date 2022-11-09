@@ -1,0 +1,61 @@
+
+
+.bi-person-circle {
+    font-size: 1.5rem !important;
+}
+
+.nav-link {
+    font-size: 0.9rem !important;
+    font-weight: bold !important;
+    border-left: 1px solid #fff;
+}
+
+#navbarSupportedContent{
+    margin-left: 2.3em;
+}
+
+.navbar-toggler, .navbar-toggler-icon {
+    color: #fff !important;
+    background: #fff;
+}
+
+.welcome-title {
+    font-size: 1.2rem;
+    padding-top: 2em;
+    
+}
+
+.welcome-date {
+    font-size: 1.2rem;
+    padding-top: 2em;
+    text-align: end;
+    color: lightgrey;
+}
+
+.thumbnail {
+    position: relative;    
+}
+
+.thumbnail-text {
+    font-size: 0.8rem !important;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.span-blue {
+    color: #0d6efd;
+    font-weight: bold;
+}
+
+.span-red {
+    color: red;
+}
+
+img {
+    filter: brightness(70%);
+}
